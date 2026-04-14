@@ -2,3 +2,7 @@
 Cria uma nova branch -b nome-da-branch
 
 git add .
+Atualiza os arquivos enviados em um commit local.
+
+git commit -m "Adiciona nova funcionalidade"
+Faz um commit na branch local
