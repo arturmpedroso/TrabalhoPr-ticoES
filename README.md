@@ -13,6 +13,8 @@ This is a FlashCard system.
 ### IDE
 GitKraken <br>
 VSCode <br>
-### Lenguages
+### Languages
 ReactJS <br>
 NestJS <br>
+### SGBD
+MySQL <br>
