@@ -7,7 +7,7 @@ This is a FlashCard system.
 > Artur Myskiw Pedroso <br>
 > Eduado Marques Carvalho <br>
 > Diogo Kovalek Almeida <br>
-> Pedro Gabrielr Figueiroa de Sousa <br>
+> Pedro Gabriel Figueiroa de Sousa <br>
 
 ## Stack
 ### IDE
